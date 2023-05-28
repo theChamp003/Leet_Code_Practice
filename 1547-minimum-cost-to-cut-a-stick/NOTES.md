@@ -1,1 +1,1 @@
-Here we do dfs with memotization doing it in a manner as we do dfs we keep track using hashmap also it works because
+Here we do dfs with memotization doing it in a manner as we do dfs we keep track using hashmap also it works because we are trying everycut and seeeing wheather this would give minimum value and we have a string l +"kk" + r for that cut .

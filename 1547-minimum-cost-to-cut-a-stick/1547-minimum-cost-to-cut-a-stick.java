@@ -2,7 +2,7 @@ class Solution {
     HashMap<String,Integer> hm = new HashMap<>() ;
     public int minCost(int n, int[] cuts) 
     {
-       Arrays.sort(cuts);
+       //Arrays.sort(cuts);
         return f(cuts,0,n);
     }
 

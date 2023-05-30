@@ -1,0 +1,1 @@
+done as we do permutation I. just do the check of indexes intead of having the numbers checked .
